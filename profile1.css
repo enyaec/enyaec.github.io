@@ -1,0 +1,194 @@
+.personalInfo{
+	color: gray;
+	padding-right: 20px;
+
+}
+
+
+.container{
+	max-width: 1000px;
+	margin: 0 auto 0 auto;
+	font-family: Microsoft JhengHei;
+}
+
+.leftcolor{
+background-color: #a1c7b8
+
+}
+
+.rightcolor{
+background-color: #f8fbfa
+
+}
+
+
+#iconH{
+padding: 0 0 0 0;
+}
+
+#iconE{
+max-width: 50px;
+}
+
+#info{
+margin-top: 30px;
+
+}
+
+.nav-item{
+	padding-right:20px; 
+}
+
+
+.hello{
+	padding: 30px 20px 0 20px;
+	margin: 30px;
+}
+.about{
+    padding: 0 50px 30px 50px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 24px;
+}
+
+
+#profileTitle{
+	font-size: 2em;
+	text-align: center;
+	padding: 10px 0 10px 0;
+}
+
+#WorkTitle2{
+	padding: 30px 0 0 10px;
+	font-weight: bold;
+}
+
+#boxes{
+	margin: 30px auto 30px auto;
+}
+
+
+#WEtitle{
+	color: #252525;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+
+#job{
+	color: #252525;
+	font-size:16px;
+}
+
+#job2{
+	color: #4c4c4c;
+	font-size:16px;
+	vertical-align: text-top;
+	line-height: 1.7em;
+}
+
+#job3{
+	color: #726D9B;
+	font-size:16px;
+	vertical-align: text-top;
+	line-height: 1.7em;
+}
+
+#picS{
+	max-width: 100%;
+	min-width: 290px;
+	float: left;
+}
+
+#picM{
+	max-height: 300px;
+	float: left;
+}
+
+p{
+	line-height: 1.3em;
+}
+
+
+
+#boxesSkills{
+	margin: 30px auto 30px auto;
+	text-align: center;
+}
+
+
+#skillTitle{
+	color: #252525;
+	font-weight: bold;
+	font-size: 1.1em;
+	text-align: center;
+	padding-top: 15px;
+}
+.icon{
+	max-width: 60px;
+	padding-left: 10px;
+}
+
+#word{
+	font-size: 1.2em;
+	color: #252525;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#picW{
+	max-width: 80%;
+	min-width: 400px;
+	float: left;
+}
+
+#picWordW{
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#pic{
+	max-width: 400px;
+	float: left;
+	padding: 10px 20px;
+}
+
+#strange{
+	max-width: 70%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin: 0 auto;
+}
+
+#picWord{
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#moreM{
+	text-align: center;
+	padding-top: 30px;
+	color: #337ab7;
+}
+
+#more{
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+	border: 1px solid ;	
+	background-color: white;
+}
+
+.page-footer{
+	background-color: #C4c4c4;
+	font-size:16px;
+	padding: 30px 0 25px 0  ;
+	margin-bottom: 0;
+
+}
+
+.footerP{
+padding-left: 10%;
+}
+
